@@ -11,7 +11,7 @@ You can download the dataset from Kaggle:
 After downloading the dataset, please extract it and edit the paths in your code (e.g., `brain_tumor.ipynb`) to point to your local dataset directory.
 
 ## Project Details
-For a complete overview of the project, including the model architecture, training process, and evaluation metrics, please read the detailed **[Report.md](Report.md)** included in this repository.
+For a complete overview of the project, including the model architecture, training process, and evaluation metrics, please read the detailed **[Report.md](Brain_Tumor_Detection_Report_v1.pdf)** included in this repository.
 
 ## Setup
 It's recommended to create a virtual environment and install the required packages:
