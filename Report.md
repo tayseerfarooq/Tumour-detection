@@ -2405,7 +2405,7 @@ Final Test Accuracy: 86.44%
 
 **Note:** The complete Jupyter Notebook with all code, outputs, and visualizations is attached as a separate file:
 
-**Filename:** `Brain_Tumor_Detection_Complete_Notebook.ipynb`
+**Filename:** `brain_tumor.ipynb`
 
 **Contents:**
 - All data exploration code
@@ -2465,27 +2465,27 @@ Based on this comprehensive analysis, here is a prioritized action plan for the 
 - Prepare IRB application
 - Design retrospective study protocol
 
-### 14.2 Long-Term Vision (2-5 Years)
+### 14.2 Long-Term Vision 
 
-**Year 1: Advanced Model Development**
+**Advanced Model Development**
 - 3D volumetric CNNs
 - Attention mechanisms for interpretability
 - Ensemble methods
 - Target: 92-95% overall accuracy
 
-**Year 2: Clinical Validation**
+** Clinical Validation**
 - Retrospective study on 1,000+ cases
 - Compare AI vs radiologist performance
 - Publish results in peer-reviewed journal
 - Obtain FDA 510(k) clearance
 
-**Year 3: Pilot Deployment**
+** Pilot Deployment**
 - Deploy in screening capacity at partner hospital
 - AI-assisted triage system
 - Monitor false negative rates
 - Collect real-world performance data
 
-**Year 4-5: Full Clinical Integration**
+** Full Clinical Integration**
 - Expand to multiple hospitals
 - Integration with PACS systems
 - Continuous learning pipeline
@@ -2512,11 +2512,6 @@ This project could contribute to:
 - Scikit-learn developers
 - OpenCV community
 - Matplotlib and Seaborn teams
-
-**Educational Resources:**
-- Andrew Ng's Deep Learning Specialization
-- Fast.ai courses
-- TensorFlow documentation and tutorials
 
 **Inspiration:**
 - Researchers advancing medical AI globally
